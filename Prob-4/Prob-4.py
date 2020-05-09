@@ -2,7 +2,7 @@
 #   Programming Assignment 4
 #     Prob-4.py
 
-# <YOUR NAME>
+# Esther Pisano
 
 # Author: Bruce Elgort
 # Date: July 12, 2017

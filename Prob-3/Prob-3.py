@@ -2,7 +2,7 @@
 #   Programming Assignment 4
 #     Prob-3.py
 
-# <YOUR NAME>
+# Esther Pisano
 
 
 def letterGrade(score):

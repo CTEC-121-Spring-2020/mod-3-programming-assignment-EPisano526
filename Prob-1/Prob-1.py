@@ -2,7 +2,7 @@
 #   Programming Assignment 4
 #     Prob-1.py
 
-# <YOUR NAME>
+# Esther Pisano
 
 
 def shippingCost(orderSubTotal):
@@ -15,10 +15,9 @@ def shippingCost(orderSubTotal):
 
 
 def unitTest():
-    print("Shipping cost if subtotal < 10.00:\t", shippingCost(5.99))
-    # enter additional test code here
-    print("Shipping cost if subtotal = 10.00:\t", shippingCost(10.00))
-    print("Shipping cost if subtotal > 10.00:\t", shippingCost(11.99))
+    print("Shipping cost if subtotal < 10.00:\n", shippingCost(5.99))
+    print("Shipping cost if subtotal = 10.00:\n", shippingCost(10.00))
+    print("Shipping cost if subtotal > 10.00:\n", shippingCost(11.99))
 
 
 if __name__ == "__main__":

@@ -2,7 +2,7 @@
 #   Programming Assignment 4
 #     Prob-2.py
 
-# <YOUR NAME>
+# Esther Pisano
 
 '''
 Input(s): workers information-> name, hourly wage, hours.
